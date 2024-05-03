@@ -1,13 +1,13 @@
 # Python-Basics<br>
-1 Variables<br>
-2 Receiving Input<br>
-3 Python Cheat Sheet<br>
-4 Type Conversion<br>
-5 Strings<br>
-6 Formatted Strings<br>
-7 String Methods<br>
-8 Arithmetic Operations<br>
-9 Operator Precedence<br>
+01 Variables<br>
+02 Receiving Input<br>
+03 Python Cheat Sheet<br>
+04 Type Conversion<br>
+05 Strings<br>
+06 Formatted Strings<br>
+07 String Methods<br>
+08 Arithmetic Operations<br>
+09 Operator Precedence<br>
 10 Math Functions<br>
 11 If Statements<br>
 12 Logical Operators<br>
